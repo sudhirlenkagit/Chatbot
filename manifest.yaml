@@ -1,0 +1,6 @@
+---
+applications:
+- name: BirlasoftChatbot
+  command: node app.js
+  buildpack: nodejs_buildpack
+  memory: 128M
