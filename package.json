@@ -8,7 +8,7 @@
   "dependencies": {
     "ajax-request": "*",
     "body-parser": "^1.19.0",
-    "express": "3.2.6",
+    "express": "4.17.3",
     "external-ip": "^2.1.1",
     "jade": "*",
     "jquery": "^3.4.1",
